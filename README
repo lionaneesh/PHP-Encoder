@@ -1,0 +1,9 @@
+PHP-Encoder
+===========
+
+A basic PHP-Encoder using Base64 + Gzip encoding.
+
+Author
+======
+
+Aneesh Dogra <lionaneesh-at-gmail>
